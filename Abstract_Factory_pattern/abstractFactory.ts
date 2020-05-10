@@ -99,7 +99,7 @@ clientCode(new AldiToyFactory())
 console.log('')
 
 console.log('Testing the same client code with the third (Zabka) factory type')
-clientCode(new ZabkaFactory())
+clientCode(new ZabkaToyFactory())
 
 
 
